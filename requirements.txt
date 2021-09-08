@@ -1,0 +1,10 @@
+mlflow
+cloudpickle==1.6.0
+configparser==5.0.2
+dill==0.3.4
+ipython==7.26.0
+transformers[torch]==4.9.2
+fastapi==0.68.1
+uvicorn==0.13.4
+aiofiles==0.7.0
+celery[redis]==5.1.2
