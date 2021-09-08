@@ -1,8 +1,0 @@
-mlflow
-cloudpickle==1.6.0
-configparser==5.0.2
-dill==0.3.4
-ipython==7.26.0
-torch==1.9.0
-torchvision==0.2.2
-transformers==4.9.2
