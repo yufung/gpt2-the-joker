@@ -2,7 +2,7 @@
 Generating question and answer jokes with GPT-2
 
 <p align="center">
-<img align="middle" src="./assets/htmlfrontend.png" alt="HTML front-end" />
+<img align="middle" src="./assets/example.png" alt="Example" />
 </p>
 
 ### Dataset
@@ -38,8 +38,12 @@ Run the following command to build services and start containers:
 Two client services are available:
 
 * HTML front-end that is accessible on `http://localhost`
-* REST API via `http://localhost/generate`. API documentation accessible on `http://localhost/docs`
+* REST API endpoint via `http://localhost/generate`. API documentation accessible on `http://localhost/docs`
 
 <p align="center">
-<img align="middle" src="./assets/restapi.png" alt="HTML front-end" />
+<img align="middle" src="./assets/htmlfrontend.png" alt="HTML front-end" />
+</p>
+
+<p align="center">
+<img align="middle" src="./assets/restapi.png" alt="Rest API endpoint" />
 </p>
