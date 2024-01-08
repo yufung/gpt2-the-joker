@@ -1,5 +1,7 @@
 # GPT-2 the Joker
-Generating question and answer jokes with GPT-2
+Generating question and answer jokes with GPT-2.
+
+[Link to web app demo](https://gpt2-the-joker.tamyufung.com)
 
 <p align="center">
 <img align="middle" src="./assets/example.png" alt="Example" />
